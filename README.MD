@@ -111,7 +111,7 @@ Create a sunburst chart to conduct a cost analysis of the most expensive neighbo
 Dashboard
 Now that you have worked out all of the code and analysis, you will use the Panel library to build an interactive dashboard for all of the visualizations. There are no hard requirements for the layout of this dashboard, so use your imagination and creativity!
 Use the dashboard.ipynb starter notebook for your dashboard code. Copy over the code for each visualization and place this into separate functions (1 function per visualization). This will make it easier to build and modify the layout later. Each function should return the plot figure in a format that Panel can use to plot the visualization.
-Sample Dashboard:
+
 
 
 
